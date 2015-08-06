@@ -4,6 +4,7 @@ The JavaScript Library for the popular card game "The Counter Attack".
 ### Developer
 
 The Card Game was developed by the [Binary Lottery Developer](http://binärlotto.de).
+@TobyMaxham
 
 ### License
 
