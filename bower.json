@@ -1,7 +1,7 @@
 {
  "name": "counterAttack",
-  version: '0.1.3',
-  homepage: 'http://bin‰rlotto.de',
+  version: '0.1.4',
+  homepage: 'http://bin√§rlotto.de',
   "dependencies": {
     "tlib": "git@github.com:tamarillo/tlib.git",
     "jquery": "~2.0.3"
