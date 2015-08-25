@@ -1,9 +1,9 @@
 {
- "name": "counterAttack",
-  version: '0.1.4',
-  homepage: 'http://binärlotto.de',
-  "dependencies": {
-    "tlib": "git@github.com:tamarillo/tlib.git",
-    "jquery": "~2.0.3"
-  }
+   "name": "counterAttack",
+   "version": "0.1.4",
+   "homepage": "http://binärlotto.de",
+   "dependencies": {
+      "tlib": "git@github.com:tamarillo/tlib.git",
+      "jquery": "~2.0.3"
+   }
  }
